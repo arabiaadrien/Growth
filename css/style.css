@@ -855,3 +855,16 @@ img {
 .banner-right {
     margin: 0;
 }
+
+.faq-content {
+
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-sm {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
